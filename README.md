@@ -31,10 +31,6 @@ Una vez instalado y activado, el plugin añadirá automáticamente las comunas d
 
 Si tienes sugerencias para mejorar este plugin o quieres colaborar en su desarrollo, por favor, siéntete libre de hacer un fork del repositorio, realizar cambios y enviar un pull request con tus mejoras.
 
-## Licencia
-
-Este proyecto está bajo [La licencia MIT](LICENSE). Consulta el archivo `LICENSE` para más información.
-
 ## Contacto
 
-Si tienes alguna pregunta o necesitas contactarme, puedes hacerlo a través de [mi perfil de GitHub](https://github.com/angelferrer).
+Si tienes alguna pregunta o necesitas contactarme, puedes hacerlo a través de [mi perfil de GitHub](https://github.com/angelsegundof).
